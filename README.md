@@ -87,11 +87,6 @@ java -jar target/MySpringApp-0.0.1-SNAPSHOT.jar
 
 ---
 
-## 📜 **License**
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 ## ⭐ **Show Your Support**
 If you found this helpful, please **star ⭐ the repository**!
 
